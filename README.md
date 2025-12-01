@@ -1,10 +1,8 @@
 # Distributed Matrix Factorization using MPI
 
-# Cómo ejecutar el código secuencial y paralelo
+# Cómo ejecutar el código secuencial y paralelo:
 
-## Estructura del proyecto:
-
-
+# 1. EJECUTAR VERSIÓN SECUENCIAL:
 python3 secuencial.py --data_path u1m.data --N 10000
 python3 secuencial.py --data_path u1m.data --N 100000
 python3 secuencial.py --data_path u1m.data --N 200000
