@@ -3,7 +3,7 @@
 # Cómo ejecutar el código secuencial y paralelo:
 
 # 1. EJECUTAR VERSIÓN SECUENCIAL:
-python3 secuencial.py --data_path u1m.data --N [10000, 100000, 200000, 500000]
+python3 secuencial.py --data_path u1m.data --N [10000, 100000, 200000, 500000] 
 
 # 2. EJECUTAR VERSIÓN PARALELA CON MPI:
 
